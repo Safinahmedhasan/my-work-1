@@ -510,6 +510,7 @@ body{
 
 .footer-container-full{
     background: #999999;
+    width: 100%;
 }
 .footer-container{
     width: 1280px;
