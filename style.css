@@ -509,8 +509,7 @@ body{
 }
 
 .footer-container-full{
-    background: #999999;
-    width: 100%;
+    background: #F8F8F8;
 }
 .footer-container{
     width: 1280px;
@@ -520,4 +519,7 @@ body{
 .footer p{
     text-align: center;
     padding: 20px 0;
+}
+.ower-name{
+    color: #1EB2A6;
 }
